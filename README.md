@@ -81,9 +81,23 @@
 <img src="https://skillicons.dev/icons?i=aws,docker" />
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
 
-**Databases**
+## 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
+
+<img src="https://cdn.simpleicons.org/snowflake" width="60"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+</p>
 
 **AI / ML for Analytics**
 
