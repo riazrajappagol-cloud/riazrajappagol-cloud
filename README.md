@@ -62,24 +62,51 @@
 
 <div align="center">
 
-**Data Analysis & Querying**
+## 📈 Data Analysis & Querying
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mongodb" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<p align="center">
 
-**Dashboards & Visualization**
+<img src="https://skillicons.dev/icons?i=python" />
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<br>
 
-**Cloud & Data Infrastructure**
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=aws,docker" />
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/EDA-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Cleaning-0288D1?style=for-the-badge"/>
+
+</p>
+
+## 📊 Dashboards & Visualization
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Interactive_Dashboards-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/KPI_Reporting-00897B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Storytelling-E91E63?style=for-the-badge"/>
+
+</p>
+
+## ☁️ Cloud & Data Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws" />
 
 ## 🗄️ Databases
 
@@ -99,20 +126,35 @@
 
 </p>
 
-**AI / ML for Analytics**
+## 🤖 AI / ML for Analytics
 
-<img src="https://img.shields.io/badge/GENAi-412331?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Agentic%20Ai-FF6F61?style=for-the-badge&logo=pinecone&logoColor=white" />
+<p align="center">
 
-**Tools**
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/Prompt_Engineering-6A1B9A?style=for-the-badge"/>
 
-<br/>
+<img src="https://img.shields.io/badge/Power_BI_Copilot-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
+
+## 🛠️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+
+</p>
 
 ## 📊 GitHub Analytics
 
