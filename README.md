@@ -4,7 +4,7 @@
 #### Finding the story hiding in the spreadsheet
 
 <p align="center">
-  <img src="./hero.gif" width="700" alt="Python Hero Animation">
+  <img src="./animated video.gif" width="700" alt="Python Hero Animation">
 </p>
 <div align="center">
 
