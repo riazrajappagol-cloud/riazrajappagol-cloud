@@ -38,12 +38,26 @@
 
 ## 🧭 About Me
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 - 💼 Currently working as a **DATA ANALYST**, turning raw data into insights that drive real business decisions
 - 🧠 Deep interest in **data storytelling, statistical analysis, and AI-assisted analytics** — exploring how LLMs and prompt engineering are reshaping how we work with data
 - 🏗️ Comfortable across the analytics stack: querying and modeling in **SQL (PostgreSQL, Snowflake, MongoDB)**, dashboards in **Power BI / Tableau**, analysis in **Python (Pandas, NumPy)**
 - 📚 Currently learning: advanced **dimensional modeling**, **vector databases**, and applied **AI tooling for analytics**
 - 📝 I occasionally write about data analysis, dashboarding, and data storytelling — check my portfolio for posts
 - 💬 Ask me about: SQL optimization, dashboard design, data modeling, ETL workflows, or turning messy data into clean insights
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="./gun-sirichote-night-workflow3-animated3-edit.webp" width="320"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
