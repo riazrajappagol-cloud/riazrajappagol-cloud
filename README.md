@@ -132,7 +132,15 @@
 
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Amazon_Q-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/Prompt_Engineering-6A1B9A?style=for-the-badge"/>
 
