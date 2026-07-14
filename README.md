@@ -87,9 +87,10 @@
 
 **AI / ML for Analytics**
 
+<img src="https://img.shields.io/badge/GENAi-412331?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector%20DBs-FF6F61?style=for-the-badge&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic%20Ai-FF6F61?style=for-the-badge&logo=pinecone&logoColor=white" />
 
 **Tools**
 
